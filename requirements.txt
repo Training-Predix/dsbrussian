@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+pandas-datareader
+xlrd
+lxml
+html5lib
+BeautifulSoup4
+nltk
+pyspark
+plotly
+cufflinks
+tensorflow
